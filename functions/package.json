@@ -15,7 +15,7 @@
   "dependencies": {
     "@octokit/rest": "^17.11.0",
     "@octokit/types": "^5.0.0",
-    "coffeescript": "~1.6.3"
+    "coffeescript": "~1.12.7"
   },
   "devDependencies": {
     "@azure/functions": "^1.0.1-beta2",
